@@ -1,0 +1,8 @@
+rootProject.name = 'spray-examples'
+
+include 'spray-servlet-server'
+
+include 'spray-can-benchmark'
+
+include 'simple-http-server'
+
